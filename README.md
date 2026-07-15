@@ -11,9 +11,9 @@ Dev Containers 확장 기능
 # 핸즈온에서 사용하는 깃허브 리포지토리
 이 책의 핸즈온에서 사용하는 깃허브 리포지토리는 다음과 같습니다.
 
-1부 2장 실습: https://github.com/GenerativeAgents/claude-code-book-template
-1부 4장 실습: https://github.com/GenerativeAgents/claude-code-book-chapter4
-2부 8장 실습: https://github.com/GenerativeAgents/claude-code-book-chapter8
+1부 2장 실습: https://github.com/insightbook/Practical-Claude-Code/claude-code-book-template
+1부 4장 실습: https://github.com/insightbook/Practical-Claude-Code/claude-code-book-chapter4
+2부 8장 실습: https://github.com/insightbook/Practical-Claude-Code/claude-code-book-chapter8
 
 # 알려진 오류
 ## Claude Code Action 리포지토리 업데이트로 인해 발생하는 오류
