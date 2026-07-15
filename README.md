@@ -19,7 +19,7 @@
 
 2부 8장 실습: https://github.com/insightbook/Practical-Claude-Code/claude-code-book-chapter8
 
-# 원서의 깃허브 리포지토리
+## 원서의 깃허브 리포지토리
 
 https://github.com/GenerativeAgents
 
