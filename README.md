@@ -5,7 +5,9 @@
 핸즈온을 시작하기 전에 다음 도구를 설치하세요.
 
 Visual Studio Code
+
 Docker
+
 Dev Containers 확장 기능
 
 # 핸즈온에서 사용하는 깃허브 리포지토리
